@@ -1,6 +1,6 @@
 # Youtube Video Downloader
 
-## Clone the repository
+### Clone the repository
 
 run the command
 ```
